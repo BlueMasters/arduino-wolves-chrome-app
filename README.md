@@ -1,4 +1,4 @@
-# es6-chrome-app-test
+# ArduinoWolves Chrome App 
 
 A chrome app to easily configure the Arduino-Wolves arduino through serial.
 
@@ -11,3 +11,4 @@ npm run watch
 ```
 
 and modify/load the chrome-app. The es6 scripts (with `main.js` as the entry point) will be compiled and bundled into `chrome-app/js/bundle.js`.
+                                        
