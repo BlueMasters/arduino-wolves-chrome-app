@@ -1,6 +1,8 @@
 # es6-chrome-app-test
 
-a chrome app using webpack and es6 scripts compiled with babel.
+A chrome app to easily configure the Arduino-Wolves arduino through serial.
+
+This app uses webpack and es6 scripts compiled with babel.
 
 During development, simply run:
 
