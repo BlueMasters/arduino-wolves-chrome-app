@@ -1,6 +1,7 @@
 {
-  "name": "Arduino Wolves",
-  "description": "Config tool for Arduino Wolves.",
+  "name": "Arduino Wolves Config Tool",
+  "short_name": "arduiwolves",
+  "description": "A configuration tool for Arduino Wolves",
   "version": "0.1",
   "manifest_version": 2,
   "app": {
@@ -9,8 +10,7 @@
     }
   },
   "icons": {
-      "16": "assets/icon-mhn-16.png",
-      "128": "assets/icon-mhn-128.png"
+      "128": "assets/logo-128.png"
   },
   "permissions": [
       "serial",
